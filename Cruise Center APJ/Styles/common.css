@@ -1,0 +1,29 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-color: lightblue;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+.center-login {
+    position: absolute;
+    top:  50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.errormsg {
+    color: red;
+}
+.hidden-field {
+    display: none;
+}
+.center-reservation {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
